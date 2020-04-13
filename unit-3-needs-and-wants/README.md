@@ -25,3 +25,9 @@
 |pizza|![pizza](https://www.nzsl.nz/images/signs/400-400/5395/pizza-5395-default.png)|[pizza](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/5395/pizza.5395.main_glosses.mb.r480x360.mp4)|
 |chocolate|![chocolate](https://www.nzsl.nz/images/signs/400-400/4432/chocolate-4432-default.png)|[chocolate](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/4432/chocolate.4432.main_glosses.jo.r480x360.mp4)|
 |cake|![cake](https://www.nzsl.nz/images/signs/400-400/1805/cake-1805-high_resolution.png)|[cake](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/1805/cake.1805.main_glosses.sp.r480x360.mp4)|
+|class|![class](https://www.nzsl.nz/images/signs/400-400/4249/class-4249-default.png)|[class](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/4249/class.4249.main_glosses.mb.r480x360.mp4)|
+|hall|![hall](https://www.nzsl.nz/images/signs/400-400/5903/hall-5903-high_resolution.png)|[hall](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/5903/hall.5903.main_glosses.sp.r480x360.mp4)|
+|toilet|![toilet](https://www.nzsl.nz/images/signs/400-400/5467/toilet-5467-high_resolution.png)|[toilet](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/5467/toilet.5467.main_glosses.sp.r480x360.mp4)|
+|carpark|![carpark](https://www.nzsl.nz/images/signs/400-400/603/park_car-603-high_resolution.png)|[carpark](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/603/park.603.main_glosses.jo.r480x360.mp4)|
+|stairs|![stairs](https://www.nzsl.nz/images/signs/400-400/5841/go_downstairs-5841-high_resolution.png)|[stairs](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/5841/stairs.5841.main_glosses.mb.r480x360.mp4)|
+|cellphone|![cellphone](https://www.nzsl.nz/images/signs/400-400/5581/mobile_phone-5581-high_resolution.png)|[cellphone](https://nzsl-assets-proxy.herokuapp.com/dnzsl/freelex/assets/5581/mobile_phone.5581.main_glosses.mb.r480x360.mp4)|
